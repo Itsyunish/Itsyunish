@@ -42,7 +42,6 @@
 ---
 
 ### 🧩 Highlight Projects
-- 🦾 **Hero-Motor-LLM** – LLM-based intelligent system for automation  
 - 💬 **AI Chatbot Framework** – FastAPI + LangChain-based agent platform  
 - 🧠 **Sign Language Recognition Model** – CNN-based gesture recognizer (98% accuracy)
 
