@@ -55,10 +55,8 @@ Currently focused on developing **LLM-based multi-agent architectures**, **voice
 
 ### 📫 Connect
 - 📧 Email: [yunishsubedi17@gmail.com](mailto:yunishsubedi17@gmail.com)
-- 🌐 Portfolio / LinkedIn: *(add later when ready)*
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsyunish)
 
 > *“Engineering the bridge between human intent and machine intelligence.”*
