@@ -10,12 +10,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working as a **Machine Learning Engineer**
-- 🧠 Focused on **AI Agents**, **LLMs**, and **Automation Systems**
-- 🧩 Skilled in:  
-  **Machine Learning**, **Deep Learning**, **LangChain**, **LangGraph**, **FastAPI**,  
-  **Multi-Agent Systems**, **SQL**, **MongoDB**, **Redis**, **TensorFlow**, **Keras**, **Web Scraping**
-- 💬 Ask me about building intelligent chatbots, voice agents, or scalable AI backends.
+I’m a **Machine Learning Engineer** passionate about building intelligent agent systems that bridge humans and AI.  
+Currently focused on developing **LLM-based multi-agent architectures**, **voice/chat automation**, and **scalable backend AI services**.
 
 ---
 
@@ -26,14 +22,21 @@
 
 ---
 
-### 🚀 Current Work
-- 🤖 Developing **AI-powered agent systems** (chatbots, voice assistants, multi-agent coordination)
-- 🧩 Researching **AI automation for businesses**
-- 🧠 Exploring **LangGraph** for next-gen reasoning workflows
+### 🧩 Currently Working On
+- 🚀 Developing **multi-agent automation systems** for voice-based workflows  
+- 🧠 Researching **autonomous AI coordination** using **LangGraph**  
+- ⚙️ Experimenting with **vector databases and memory systems**
 
 ---
 
-### 📈 GitHub Stats
+### 🧩 Highlight Projects
+🚗 [**Hero-Motor-LLM**](https://github.com/itsyunish/Hero-Motor-LLM) — LLM-based intelligent automation system  
+💬 [**AI Chatbot Framework**](https://github.com/itsyunish/AI-Chatbot-Framework) — FastAPI + LangChain agent platform  
+🤟 [**Sign Language Recognition**](https://github.com/itsyunish/Sign-Language-Recognizer) — CNN-based gesture recognizer (98% accuracy)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsyunish&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyunish&layout=compact&theme=transparent" alt="Top Langs" />
@@ -41,15 +44,19 @@
 
 ---
 
-### 🧩 Highlight Projects
-- 💬 **AI Chatbot Framework** – FastAPI + LangChain-based agent platform  
-- 🧠 **Sign Language Recognition Model** – CNN-based gesture recognizer (98% accuracy)
+### 🗓️ Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyunish&theme=react-dark" alt="Activity Graph" />
+</p>
 
 ---
 
 ### 📫 Connect
-- 📧 Email: [subediyunish182@gmail.com](mailto:subediyunish182@gmail.com)
+- 📧 Email: [yunishsubedi17@gmail.com](mailto:yunishsubedi17@gmail.com)
+- 🌐 Portfolio / LinkedIn: *(add later when ready)*
 
 ---
 
-⭐ *“Building systems that make intelligence practical.”*
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsyunish)
+
+> *“Engineering the bridge between human intent and machine intelligence.”*
