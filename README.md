@@ -30,9 +30,11 @@ Currently focused on developing **LLM-based multi-agent architectures**, **voice
 ---
 
 ### 🧩 Highlight Projects
-🚗 [**Hero-Motor-LLM**](https://github.com/itsyunish/Hero-Motor-LLM) — LLM-based intelligent automation system  
-💬 [**AI Chatbot Framework**](https://github.com/itsyunish/AI-Chatbot-Framework) — FastAPI + LangChain agent platform  
-🤟 [**Sign Language Recognition**](https://github.com/itsyunish/Sign-Language-Recognizer) — CNN-based gesture recognizer (98% accuracy)
+🎬 [**Movie Recommender System**](https://github.com/itsyunish/Movies-Recommender-System) — ML-based content recommendation using cosine similarity and NLP  
+📧 [**Email Spam Classifier**](https://github.com/itsyunish/Email-Spam-Classifier) — NLP-powered spam detection using Scikit-learn and Streamlit  
+🤟 [**Sign Language Recognition**](https://github.com/itsyunish/Sign-Language-Recognizer) — CNN-based hand gesture recognition (98% accuracy)  
+💬 [**AI Chatbot Framework**](https://github.com/itsyunish/AI-Chatbot-Framework) — FastAPI + LangChain agent platform for intelligent conversational systems
+
 
 ---
 
