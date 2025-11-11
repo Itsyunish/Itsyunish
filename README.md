@@ -48,7 +48,7 @@
 ---
 
 ### 📫 Connect
-*(Add your preferred contact links later — e.g. LinkedIn, portfolio, email)*
+- 📧 Email: [subediyunish182@gmail.com](mailto:subediyunish182@gmail.com)
 
 ---
 
