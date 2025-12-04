@@ -38,21 +38,6 @@ Currently focused on developing **LLM-based multi-agent architectures**, **voice
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsyunish&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyunish&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-
----
-
-### 🗓️ Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyunish&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
 ### 📫 Connect
 - 📧 Email: [yunishsubedi17@gmail.com](mailto:itsbusiness186@gmail.com)
 
