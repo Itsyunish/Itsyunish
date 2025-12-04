@@ -54,7 +54,7 @@ Currently focused on developing **LLM-based multi-agent architectures**, **voice
 ---
 
 ### 📫 Connect
-- 📧 Email: [yunishsubedi17@gmail.com](mailto:yunishsubedi17@gmail.com)
+- 📧 Email: [yunishsubedi17@gmail.com](mailto:itsbusiness186@gmail.com)
 
 ---
 
